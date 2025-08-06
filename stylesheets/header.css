@@ -6,7 +6,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 15px 8%;
-    background: linear-gradient(90deg, var(--primary-color), var(--secondary-color));
+    background: linear-gradient(90deg, var(--secondary-color), var(--primary-color));
     color: var(--header-text-color, #fff);
     position: sticky;
     top: 0;
@@ -162,3 +162,4 @@ nav ul li a:hover {
         }
     }
 }
+
