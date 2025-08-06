@@ -5,7 +5,7 @@
     position: relative;
     text-align: center;
     color: var(--hero-text-color, #fff);
-    background: linear-gradient(270deg, var(--primary-color), var(--secondary-color));
+    background: linear-gradient(270deg, var(--secondary-color), var(--primary-color));
     height: calc(100vh - 60px); /* Full screen minus header */
     width: 100%;
     display: flex;
@@ -131,3 +131,4 @@
     .hero p { font-size: 1rem; }
     .cta-btn { padding: 12px 25px; font-size: 1rem; }
 }
+
