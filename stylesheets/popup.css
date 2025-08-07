@@ -3,7 +3,7 @@
 =========================== */
 .popup-overlay {
     position: fixed;
-    top: 60px; /* Exclude header height */
+    top: 70px; /* Exclude header height */
     left: 0;
     width: 100%;
     height: calc(100% - 60px); /* Take remaining screen space */
@@ -107,3 +107,4 @@
         font-size: 0.95rem;
     }
 }
+
