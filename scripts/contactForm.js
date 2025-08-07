@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
         loader.style.display = "flex";
 
         // Send data to Google Apps Script Web App
-        fetch("https://script.google.com/macros/s/AKfycbz2CecJcxo_G7P-qteqeT8ed5Z6FawyWxBlYmCP0G6T7VRF6gINqRdcxMyKJjbhV9H7/exec", {
+        fetch("https://script.google.com/macros/s/AKfycbzJHuQxGmj95ncxvuYuDMqlFzUlJtN6WBVSAjbDd2j--Gvx4a7EOr1Few3_qTHHfs2Huw/exec", {
             method: "POST",
             mode: "no-cors",
             headers: {
@@ -50,3 +50,4 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     });
 });
+
