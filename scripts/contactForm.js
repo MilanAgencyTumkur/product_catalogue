@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", () => {
         fetch("https://script.google.com/macros/s/AKfycbzJHuQxGmj95ncxvuYuDMqlFzUlJtN6WBVSAjbDd2j--Gvx4a7EOr1Few3_qTHHfs2Huw/exec", {
             method: "POST",
             headers: {
-                "Content-Type": "application/json"
+                "Content-Type": "text/plain;charset=utf-8"
             },
             body: JSON.stringify({
                 name: this.name.value.trim(),
@@ -63,3 +63,4 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     });
 });
+
