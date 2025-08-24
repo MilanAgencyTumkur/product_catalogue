@@ -49,8 +49,9 @@ document.addEventListener('DOMContentLoaded', () => {
         card.addEventListener('click', () => {
             const productId = card.dataset.productId;
             if (productId) {
-                window.location.href = `/pages/solvents/description.html?id=${productId}`;
+                window.location.href = `/pages/solvents/solvent-description.html?id=${productId}`;
             }
         });
     });
+
 });
