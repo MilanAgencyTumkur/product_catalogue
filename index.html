@@ -7,16 +7,18 @@
     <meta name="description"
         content="Milan Flow - Reliable solutions for water flow. Electric Motors, Submersible Pumps, Ball Valves, and PVC/CPVC Solvents.">
     <title>Milan Flow - Product Catalogue</title>
+
     <meta property="og:title" content="Milan Flow - Product Catalogue">
     <meta property="og:description" content="Reliable solutions for water flow. Electric Motors, Submersible Pumps, Ball Valves, and PVC/CPVC Solvents.">
-    <meta property="og:image" content="https://MilanAgencyTumkur.github.io/product_catalogue/images/preview.jpg">
-    <meta property="og:url" content="https://MilanAgencyTumkur.github.io/product_catalogue/">
+    <meta property="og:image" content="https://milanagencytumkur.github.io/product_catalogue/images/logo.png">
+    <meta property="og:url" content="https://milanagencytumkur.github.io/product_catalogue/">
     <meta property="og:type" content="website">
+
     <link rel="stylesheet" href="stylesheets/style.css">
     <link rel="stylesheet" href="stylesheets/hero.css">
     <script src="scripts/hamburger.js" defer></script>
-    <script src="scripts/popup.js" defer></script>
     <script src="scripts/contactForm.js" defer></script>
+    <script src="scripts/navigate.js" defer></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
@@ -72,27 +74,19 @@
     <section id="products" class="products">
         <h2>Our Products</h2>
         <div class="product-grid">
-            <div class="product-card" data-title="Electric Motors"
-                data-desc="High-quality electric motors suitable for various applications. Power: 0.5HP - 1HP."
-                data-img="images/electric_motor.jpg">
+            <div class="product-card" data-page="pages/electric_motors/electric_motors.html">
                 <img src="images/electric_motor.jpg" alt="Electric Motors">
                 <h3>Electric Motors</h3>
             </div>
-            <div class="product-card" data-title="Submersible Pumps"
-                data-desc="Reliable submersible pumps for clean water supply and borewell applications."
-                data-img="images/submersible.jpg">
+            <div class="product-card" data-page="pages/submersible_pumps/submersible_pumps.html">
                 <img src="images/submersible.jpg" alt="Submersible Pumps">
                 <h3>Submersible Pumps</h3>
             </div>
-            <div class="product-card" data-title="PVC & CPVC Ball Valves"
-                data-desc="Durable PVC and CPVC ball valves available in various sizes for plumbing and industrial use."
-                data-img="images/ball_valve.jpg">
-                <img src="images/ball_valve.jpg" alt="PVC and CPVC Ball Valves">
+            <div class="product-card" data-page="pages/ball_valves/ball_valves.html">
+                <img src="images/ball_valve_r.png" alt="PVC and CPVC Ball Valves">
                 <h3>PVC & CPVC Ball Valves</h3>
             </div>
-            <div class="product-card" data-title="PVC & CPVC Solvents"
-                data-desc="Strong and reliable PVC & CPVC solvent cement for leak-proof pipe fittings."
-                data-img="images/solvent.jpg">
+            <div class="product-card" data-page="pages/solvents/solvents.html">
                 <img src="images/solvent.jpg" alt="PVC and CPVC Solvents">
                 <h3>PVC & CPVC Solvents</h3>
             </div>
@@ -176,7 +170,7 @@
             <img id="popupImg" src="" alt="Product Image">
             <h3 id="popupTitle"></h3>
             <p id="popupDesc"></p>
-        </div>
+        </div>  
     </div>
 
     <!-- Footer -->
@@ -190,7 +184,4 @@
 
 </body>
 
-
 </html>
-
-
