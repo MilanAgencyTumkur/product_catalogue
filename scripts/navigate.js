@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
         card.addEventListener('click', () => {
             const productId = card.dataset.productId;
             if (productId) {
-                window.location.href = `pages/electric_motors/description.html?id=${productId}`;
+                window.location.href = `description.html?id=${productId}`;
             }
         });
     });
@@ -55,6 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
 });
+
 
 
 
