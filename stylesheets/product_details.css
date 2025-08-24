@@ -1,0 +1,284 @@
+/* ===========================
+   PRODUCT DETAILS STYLING
+   (Refined to match theme.css)
+=========================== */
+
+.product-details {
+    padding: 40px 8%;
+    background: var(--background-light);
+    color: var(--text-color);
+}
+
+.product-details h1 {
+    font-size: 2.4rem;
+    color: var(--primary-color);
+    margin-bottom: 15px;
+    font-weight: 700;
+    text-align: center;
+    position: relative;
+}
+
+.product-details h1::after {
+    content: '';
+    display: block;
+    width: 80px;
+    height: 4px;
+    background: var(--secondary-color);
+    margin: 12px auto 0;
+    border-radius: 2px;
+}
+
+.product-details .intro-text {
+    text-align: center;
+    font-size: 1.1rem;
+    margin-bottom: 50px;
+    color: var(--text-color-light);
+    max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.6;
+}
+
+.back-btn {
+    display: inline-block;
+    color: var(--link-color);
+    text-decoration: none;
+    font-weight: 700;
+    margin-bottom: 25px;
+    transition: color 0.3s ease, transform 0.2s ease;
+}
+
+.back-btn:hover {
+    color: var(--secondary-color);
+    transform: translateX(-3px);
+}
+
+/* Variants Grid */
+.variants-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 30px;
+}
+
+/* Variant Card Motors */
+.variant-card {
+    background: var(--card-bg);
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 6px 15px var(--shadow-light);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    text-align: center;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.variant-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 12px 25px var(--shadow-hover);
+}
+
+.variant-card img {
+    width: 100%;
+    max-height: 220px;
+    object-fit: contain;
+    border-radius: 8px;
+    margin-bottom: 18px;
+    transition: transform 0.3s ease;
+}
+
+.variant-card:hover img {
+    transform: scale(1.05);
+}
+
+.variant-card h3 {
+    font-size: 1.3rem;
+    color: var(--primary-color);
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+.variant-card p {
+    font-size: 1rem;
+    color: var(--text-color-light);
+    line-height: 1.5;
+    margin-bottom: 15px;
+}
+
+.variant-card .price {
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: var(--secondary-color);
+}
+
+/* Variant Card Pump */
+.variant-card-pump {
+    background: var(--card-bg);
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 6px 15px var(--shadow-light);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    text-align: center;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.variant-card-pump:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 12px 25px var(--shadow-hover);
+}
+
+.variant-card-pump img {
+    width: 100%;
+    max-height: 220px;
+    object-fit: contain;
+    border-radius: 8px;
+    margin-bottom: 18px;
+    transition: transform 0.3s ease;
+}
+
+
+.variant-card-pump:hover img {
+    transform: scale(1.05);
+}
+
+.variant-card-pump h3 {
+    font-size: 1.3rem;
+    color: var(--primary-color);
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+.variant-card-pump p {
+    font-size: 1rem;
+    color: var(--text-color-light);
+    line-height: 1.5;
+    margin-bottom: 15px;
+}
+
+.variant-card-pump .price {
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: var(--secondary-color);
+}
+
+/* Variant Card Valve */
+.variant-card-valves {
+    background: var(--card-bg);
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 6px 15px var(--shadow-light);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    text-align: center;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.variant-card-valves:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 12px 25px var(--shadow-hover);
+}
+
+.variant-card-valves img {
+    width: 100%;
+    max-height: 220px;
+    object-fit: contain;
+    border-radius: 8px;
+    margin-bottom: 18px;
+    transition: transform 0.3s ease;
+}
+
+
+.variant-card-valves:hover img {
+    transform: scale(1.05);
+}
+
+.variant-card-valves h3 {
+    font-size: 1.3rem;
+    color: var(--primary-color);
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+.variant-card-valves p {
+    font-size: 1rem;
+    color: var(--text-color-light);
+    line-height: 1.5;
+    margin-bottom: 15px;
+}
+
+.variant-card-valves .price {
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: var(--secondary-color);
+}
+
+/* Variant Card Solvent */
+.variant-card-solvent {
+    background: var(--card-bg);
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 6px 15px var(--shadow-light);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    text-align: center;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.variant-card-solvent:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 12px 25px var(--shadow-hover);
+}
+
+.variant-card-solvent img {
+    width: 100%;
+    max-height: 220px;
+    object-fit: contain;
+    border-radius: 8px;
+    margin-bottom: 18px;
+    transition: transform 0.3s ease;
+}
+
+
+.variant-card-solvent:hover img {
+    transform: scale(1.05);
+}
+
+.variant-card-solvent h3 {
+    font-size: 1.3rem;
+    color: var(--primary-color);
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+.variant-card-solvent p {
+    font-size: 1rem;
+    color: var(--text-color-light);
+    line-height: 1.5;
+    margin-bottom: 15px;
+}
+
+.variant-card-solvent .price {
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: var(--secondary-color);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .product-details {
+        padding: 25px 5%;
+    }
+
+    .product-details h1 {
+        font-size: 1.9rem;
+    }
+
+    .product-details .intro-text {
+        font-size: 1rem;
+        margin-bottom: 35px;
+    }
+
+    .variants-grid {
+        gap: 20px;
+    }
+}
