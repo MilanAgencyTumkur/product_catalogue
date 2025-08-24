@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     }
 
     try {
-        const response = await fetch('/../data/motor_variants.json');
+        const response = await fetch('../../data/motor_variants.json');
         const products = await response.json();
         const product = products.find(p => p.id === productId);
 
@@ -62,4 +62,5 @@ function renderProduct(product, container) {
             </div>
         </div>
     `;
+
 }
