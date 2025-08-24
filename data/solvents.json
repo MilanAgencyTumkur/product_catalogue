@@ -1,0 +1,170 @@
+[
+  {
+    "id": "1000ml_pvc",
+    "name": "1000ml Tin PVC Solvent",
+    "price": "₹551.00",
+    "description": "Strong and reliable 1000ml PVC solvent cement, ideal for securely bonding PVC pipes and fittings.",
+    "image": "../../images/solvent_pvc.png",
+    "details": {
+      "overview": "This 1000ml Tin PVC Solvent by Milan Flow is specially formulated to create strong, long-lasting joints for PVC pipes and fittings. It ensures a leak-proof bond suitable for household, agricultural, and industrial plumbing systems.",
+      "features": [
+        "Fast-setting formula for quick and efficient installation",
+        "Provides leak-proof and durable bonding",
+        "Easy application with brush-in-cap design",
+        "Available in 50, 100, 250, 500, 1000ml sizes",
+        "High-quality formulation for strong adhesion"
+      ],
+      "applications": [
+        "Joining PVC pipes and fittings",
+        "Household plumbing repairs",
+        "Agricultural irrigation pipelines",
+        "Industrial water distribution systems",
+        "Construction and maintenance of drainage systems"
+      ]
+    }
+  },
+  {
+    "id": "500ml_pvc",
+    "name": "500ml Tin PVC Solvent",
+    "price": "₹310.00",
+    "description": "Strong and reliable 500ml PVC solvent cement, ideal for securely bonding PVC pipes and fittings.",
+    "image": "../../images/solvent_pvc.png",
+    "details": {
+      "overview": "This 500ml Tin PVC Solvent by Milan Flow is specially formulated to create strong, long-lasting joints for PVC pipes and fittings. It ensures a leak-proof bond suitable for household, agricultural, and industrial plumbing systems.",
+      "features": [
+        "Fast-setting formula for quick and efficient installation",
+        "Provides leak-proof and durable bonding",
+        "Easy application with brush-in-cap design",
+        "Available in 50, 100, 250, 500, 1000ml sizes",
+        "High-quality formulation for strong adhesion"
+      ],
+      "applications": [
+        "Joining PVC pipes and fittings",
+        "Household plumbing repairs",
+        "Agricultural irrigation pipelines",
+        "Industrial water distribution systems",
+        "Construction and maintenance of drainage systems"
+      ]
+    }
+  },
+  {
+    "id": "250ml_pvc",
+    "name": "250ml Tin PVC Solvent",
+    "price": "₹194.00",
+    "description": "Strong and reliable 250ml PVC solvent cement, ideal for securely bonding PVC pipes and fittings.",
+    "image": "../../images/solvent_pvc.png",
+    "details": {
+      "overview": "This 250ml Tin PVC Solvent by Milan Flow is specially formulated to create strong, long-lasting joints for PVC pipes and fittings. It ensures a leak-proof bond suitable for household, agricultural, and industrial plumbing systems.",
+      "features": [
+        "Fast-setting formula for quick and efficient installation",
+        "Provides leak-proof and durable bonding",
+        "Easy application with brush-in-cap design",
+        "Available in 50, 100, 250, 500, 1000ml sizes",
+        "High-quality formulation for strong adhesion"
+      ],
+      "applications": [
+        "Joining PVC pipes and fittings",
+        "Household plumbing repairs",
+        "Agricultural irrigation pipelines",
+        "Industrial water distribution systems",
+        "Construction and maintenance of drainage systems"
+      ]
+    }
+  },
+  {
+    "id": "100ml_pvc",
+    "name": "100ml Tin PVC Solvent",
+    "price": "₹99.00",
+    "description": "Strong and reliable 100ml PVC solvent cement, ideal for securely bonding PVC pipes and fittings.",
+    "image": "../../images/solvent_pvc.png",
+    "details": {
+      "overview": "This 100ml Tin PVC Solvent by Milan Flow is specially formulated to create strong, long-lasting joints for PVC pipes and fittings. It ensures a leak-proof bond suitable for household, agricultural, and industrial plumbing systems.",
+      "features": [
+        "Fast-setting formula for quick and efficient installation",
+        "Provides leak-proof and durable bonding",
+        "Easy application with brush-in-cap design",
+        "Available in 50, 100, 250, 500, 1000ml sizes",
+        "High-quality formulation for strong adhesion"
+      ],
+      "applications": [
+        "Joining PVC pipes and fittings",
+        "Household plumbing repairs",
+        "Agricultural irrigation pipelines",
+        "Industrial water distribution systems",
+        "Construction and maintenance of drainage systems"
+      ]
+    }
+  },
+  {
+    "id": "50ml_pvc",
+    "name": "50ml Tin PVC Solvent",
+    "price": "₹64.00",
+    "description": "Strong and reliable 50ml PVC solvent cement, ideal for securely bonding PVC pipes and fittings.",
+    "image": "../../images/solvent_pvc.png",
+    "details": {
+      "overview": "This 50ml Tin PVC Solvent by Milan Flow is specially formulated to create strong, long-lasting joints for PVC pipes and fittings. It ensures a leak-proof bond suitable for household, agricultural, and industrial plumbing systems.",
+      "features": [
+        "Fast-setting formula for quick and efficient installation",
+        "Provides leak-proof and durable bonding",
+        "Easy application with brush-in-cap design",
+        "Available in 50, 100, 250, 500, 1000ml sizes",
+        "High-quality formulation for strong adhesion"
+      ],
+      "applications": [
+        "Joining PVC pipes and fittings",
+        "Household plumbing repairs",
+        "Agricultural irrigation pipelines",
+        "Industrial water distribution systems",
+        "Construction and maintenance of drainage systems"
+      ]
+    }
+  },
+  {
+    "id": "118ml_cpvc",
+    "name": "118ml Tin CPVC Solvent",
+    "price": "₹225.00",
+    "description": "High-strength 500ml CPVC solvent cement designed for hot and cold water applications, ensuring durable leak-proof joints.",
+    "image": "../../images/solvent_cpvc.png",
+    "details": {
+      "overview": "This 500ml Tin CPVC Solvent by Milan Flow is specially formulated for CPVC pipes and fittings, providing heat-resistant, long-lasting joints. Ideal for hot and cold water plumbing in both residential and industrial systems.",
+      "features": [
+        "Heat-resistant formulation suitable for hot water applications",
+        "Ensures strong, durable, and leak-proof joints",
+        "Easy-to-use brush-in-cap for clean application",
+        "Quick setting for faster installations",
+        "High bonding strength with CPVC pipes and fittings"
+      ],
+      "applications": [
+        "Hot and cold water plumbing systems",
+        "Residential and commercial water supply lines",
+        "Industrial fluid handling with higher temperature tolerance",
+        "CPVC-based fire sprinkler systems",
+        "Repair and maintenance of CPVC pipelines"
+      ]
+    }
+  },
+  {
+    "id": "59ml_cpvc",
+    "name": "59ml Tin CPVC Solvent",
+    "price": "₹155.00",
+    "description": "High-strength 59ml CPVC solvent cement designed for hot and cold water applications, ensuring durable leak-proof joints.",
+    "image": "../../images/solvent_cpvc.png",
+    "details": {
+      "overview": "This 59ml Tin CPVC Solvent by Milan Flow is specially formulated for CPVC pipes and fittings, providing heat-resistant, long-lasting joints. Ideal for hot and cold water plumbing in both residential and industrial systems.",
+      "features": [
+        "Heat-resistant formulation suitable for hot water applications",
+        "Ensures strong, durable, and leak-proof joints",
+        "Easy-to-use brush-in-cap for clean application",
+        "Quick setting for faster installations",
+        "High bonding strength with CPVC pipes and fittings"
+      ],
+      "applications": [
+        "Hot and cold water plumbing systems",
+        "Residential and commercial water supply lines",
+        "Industrial fluid handling with higher temperature tolerance",
+        "CPVC-based fire sprinkler systems",
+        "Repair and maintenance of CPVC pipelines"
+      ]
+    }
+  }
+]
