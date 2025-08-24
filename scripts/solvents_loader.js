@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const productId = urlParams.get("id");
 
   if (productId) {
-    fetch("https://milanagencytumkur.github.io/product_catalogue/data/solvents.json")
+    fetch("../../data/solvents.json")
       .then((response) => response.json())
       .then((solvents) => {
         const product = solvents.find((item) => item.id === productId);
@@ -66,4 +66,5 @@ function displaySolventProduct(product) {
     </div>
   `;
 }
+
 
